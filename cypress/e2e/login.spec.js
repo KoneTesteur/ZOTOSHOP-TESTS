@@ -9,6 +9,7 @@ it('should display login form', () => {
 
 it('should login with valid credentials', () => {
     cy.log("T000: implementer ce Test");
+    cy.log("T000: implementer ce Test");
 });
 
 it( 'should reject invalid credentials', () => {
