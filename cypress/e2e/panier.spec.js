@@ -13,6 +13,7 @@ describe('Panier ZotoShop', () => {
     it('should renove product from cart', () => {
         cy.log("T000: implementer ce test");
         cy.log("T000: implementer ce test2");
+        cy.log("T000: implementer ce test3");
         
     });
     
